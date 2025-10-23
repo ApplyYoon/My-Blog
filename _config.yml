@@ -1,7 +1,7 @@
-title: include <yoonio.h>
-subtitle: A Portfolio Jekyll Theme Built for Developers
+title: Jiwon's Portfolio
+subtitle:
 description: >-
-  devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
+  Welcome
 
 url: "https://applyyoon.github.io/My-Blog/"  # 깃허브 계정 주소
 baseurl: "/My-Blog"                 # 저장소 이름 (My-Blog)
