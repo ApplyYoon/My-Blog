@@ -1,10 +1,10 @@
 title: devlopr
 subtitle: A Portfolio Jekyll Theme Built for Developers
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
-url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
-baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://applyyoon.github.io"  # 깃허브 계정 주소
+baseurl: "/My-Blog"                 # 저장소 이름 (My-Blog)
 
 # Navigation
 urls:
